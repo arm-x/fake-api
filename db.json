@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": "status",
+      "id": 1,
       "status": "SCOPE_COMPLETED"
     }
   ],
