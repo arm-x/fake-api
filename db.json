@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "status": "SCOPE_COMPLETED"
+      "status": "COMMITTED_FOR_TRANSLATION"
     },
     {
       "id": 2,
