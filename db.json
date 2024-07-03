@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "status": "COMMITTED_FOR_TRANSLATION"
+      "status": "TRANSLATION_IN_PROGRESS"
     },
     {
       "id": 2,
